@@ -1,0 +1,10 @@
+sentence-transformers
+st-copy-to-clipboard
+streamlit
+qdrant_client
+streamlit-local-storage
+langchain-community
+langchain-text-splitters
+pdfplumber
+fastembed
+numpy
